@@ -1,2 +1,2 @@
 # Binary-Search-Visualizer
-Helps learners to visualize the working of binary search algorithm.
+A React Project to Help learners visualize the working of binary search algorithm.
